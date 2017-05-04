@@ -1,8 +1,8 @@
 # Technical test for fotocasa backend developers
 
-(On how to deliver this test, check [DELIVERABLE.md](DELIVERABLE.md))
+(For how to deliver this test, check [DELIVERABLE.md](DELIVERABLE.md))
 
-This service handles a list of tweets, each of 140 characters or less. The service
+This public service handles a list of tweets, each of 140 characters or less. The service
 can be described with the following user stories and acceptance criteria:
 
 * As a User, I want to publish a Tweet.
@@ -30,7 +30,7 @@ To pass this test, we expect software that also fulfills the following list of s
 * Feel free to refactor old code when adding new user stories.
 * Application test coverage must not decrease.
 * Do not use any framework or library not already in the codebase.
-* API contracts can't be changed nor modified any way.
+* API contracts can't be changed or modified any way.
 
 ### APIs
 
