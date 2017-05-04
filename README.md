@@ -1,4 +1,4 @@
-# Technical test for fotocasa backend developers
+# Technical test for Fotocasa backend developer
 
 (For how to deliver this test, check [DELIVERABLE.md](DELIVERABLE.md))
 
