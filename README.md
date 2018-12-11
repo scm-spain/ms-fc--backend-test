@@ -1,3 +1,9 @@
+# DEPRECATED
+This test is now being deprecated, and substituted with a new one.
+So if you have been sent this one please STOP NOW and tell about it to whoever asked you to do it.
+
+# DEPRECATED
+
 # Technical test for Fotocasa backend developer
 
 (For how to deliver this test, check [DELIVERABLE.md](DELIVERABLE.md))
